@@ -1,7 +1,7 @@
 # Meetup
 
 ### 目標 Goal
-每月一次的聚會，內容會由淺到深分為:
+每月一次的聚會，目的是分享和交流深度學習的技術，內容主要分為：
 - 溫故知新：由會員分享不同 Deep Learning 中的 algo/models
-- Paper Study：選出近期新的 paper 作討論
-- Sharing：由業內或會員分享他們的工作或研究
+- Sharing：參與者分享他們的學習或其研究。
+- Paper Study: 參加者 Meetup 前把我們選好的 papers 先讀好，再討論。
